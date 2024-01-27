@@ -348,7 +348,7 @@ Resultados en **NODE-RED**
 
 Resultados en **XAMPP**
 
-![](https://github.com/DanielX834/PRACTICA-N11/blob/main/27.jpg?raw=true
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/27.jpg?raw=true)
 
 # Créditos
 Desarrollado por Ing. Daniel Armenta
