@@ -303,5 +303,52 @@ return msg;
 
 ![](https://github.com/DanielX834/PRACTICA-N11/blob/main/18.jpg?raw=true)
 
+### Intrucciones de preparación del entorno phpMyAdmin  
 
-  
+1. En nuestra Pc buscamos **XAMPPP** en agregados recientes lo abrimos
+2. Nos saldra un recuadro donde le daremos start en Apache y MySQL.
+3. Damos click en Admin de MySQL
+4. Nos redigirirá a una pagina que es la plataforma de **phpMyAdmin**
+5. En la parte izquierda de la pantalla nos sale unas opciones en la cual seleccionaremos nuevo --> colocamos un nombre en la parte de base --> crear --> colocamos nombre de la tabla --> número de columnas son 4 en nuestro caso --> crear --> por uiltimo configuraremos las columnas
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/19.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/20.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/21.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/22.jpg?raw=true)
+
+### Instrucciónes de operación
+
+1. Iniciar simulador en [WOKWI](https://https://wokwi.com/).
+2. Visualizar los datos en el monitor serial.
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22**.
+4. Colocar la distancia dando *doble click* al sensor **HC-SR04**.
+5. Iniciar el simulador en [Node-RED](http://localhost:1880/) dando *click izquierdo* en el botón **Deploy** y despues abrir la interfaz dando *click izquierdo* en el boton de exportar.
+6. Visualizar la interfaz.
+7. Dar *click izquierdo* en la pestaña **Examinar** de la base de datos **MySQL**.
+8. Visualisar los datos en la tabla creada.
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial, la interfaz y la base de datos como se muestra en las siguentes imagenes.
+
+Resultados en **WOKWI**
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/23.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/24.2.jpg?raw=true)
+
+Resultados en **NODE-RED**
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/25.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/26.jpg?raw=true)
+
+Resultados en **XAMPP**
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/27.jpg?raw=true
+
+# Créditos
+Desarrollado por Ing. Daniel Armenta
