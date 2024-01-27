@@ -295,5 +295,13 @@ return msg;
 *Chart*
 ![](https://github.com/DanielX834/PRACTICA-N11/blob/main/16.jpg?raw=true)
 
+13. El nodo de mysql le damos click --> nos vamos al lapiz --> en name y database corresponde al nombre que se genero en la plataforma phpMyAdmin --> User = root 
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/17.jpg?raw=true)
+
+14. En la pestaña de de *Layout* crearemos otro tabulador llamado **Repositorios**, dentro de el añadiremos dos grupos uno para los indicadores y otro para las graficas; de igual manera colocaremos tres espaciadores de temperatura,humedad y distancia, los pondremos segun sea el caso y la especificación.
+
+![](https://github.com/DanielX834/PRACTICA-N11/blob/main/18.jpg?raw=true)
+
 
   
